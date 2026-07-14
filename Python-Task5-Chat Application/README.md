@@ -28,8 +28,8 @@ A multi-user, multi-room chat application with a Tkinter GUI, built on a custom 
 ## Installation
 
 ```bash
-git clone https://github.com/5r1nath18/local_chat_room.git
-cd local_chat_room
+git clone https://github.com/5r1nath18/OIBSIP/Python-Task5-Chat Application.git
+cd Python-Task5-Chat Application
 pip install -r requirements.txt
 ```
 
@@ -78,7 +78,7 @@ sudo pacman -S tk
 ## Project Structure
 
 ```
-local_chat_room/
+Python-Task5-Chat Application/
 ├── chat_server.py      # TCP server: auth, rooms, message relay, persistence
 ├── chat_client.py      # Tkinter GUI client
 ├── db.py                # SQLite layer (users, rooms, messages)
