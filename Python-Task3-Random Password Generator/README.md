@@ -25,8 +25,8 @@ A desktop GUI tool for generating strong, cryptographically secure passwords, bu
 ## Installation
 
 ```bash
-git clone https://github.com/5r1nath18/OIBSIP_PythonProgramming_Task3.git
-cd OIBSIP_PythonProgramming_Task3
+git clone https://github.com/5r1nath18/OIBSIP/Python-Task3-Random Password Generator.git
+cd Python-Task3-Random Password Generator
 pip install -r requirements.txt
 ```
 
@@ -91,7 +91,7 @@ sudo apt-get install wl-clipboard
 ## Project Structure
 
 ```
-secure-password-generator/
+Python-Task3-Random Password Generator/
 ├── password_generator.py   # Main application
 ├── requirements.txt        # Python dependencies
 ├── README.md
