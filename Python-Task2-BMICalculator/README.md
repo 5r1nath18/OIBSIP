@@ -28,8 +28,8 @@ A desktop GUI application for calculating Body Mass Index (BMI), classifying it 
 ## Installation
 
 ```bash
-git clone https://github.com/5r1nath18/bmi-calculator.git
-cd bmi-calculator
+git clone https://github.com/5r1nath18/OIBSIP/Python-Task2-BMICalculator.git
+cd Python-Task2-BMICalculator
 pip install -r requirements.txt
 ```
 
@@ -66,7 +66,7 @@ sudo pacman -S tk
 ## Project Structure
 
 ```
-bmi-calculator/
+Python-Task2-BMICalculator/
 ├── bmi_calculator.py   # Main application
 ├── requirements.txt    # Python dependencies
 ├── README.md
